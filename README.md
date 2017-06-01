@@ -1,0 +1,2 @@
+- Need to install libcurl
+- Due to some issue, can't build libcurl in-place

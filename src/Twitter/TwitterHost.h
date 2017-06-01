@@ -8,7 +8,7 @@
 #include "../IHost.h"
 
 class TwitterHost : public IHost {
-
+    ~TwitterHost(){}
 };
 
 #endif //OCTO_TWITTERHOST_H

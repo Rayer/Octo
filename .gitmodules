@@ -4,9 +4,4 @@
 [submodule "deps/twitcurl"]
 	path = deps/twitcurl
 	url = git@github.com:swatkat/twitcurl.git
-[submodule "deps/curl"]
-	path = deps/curl
-	url = git@github.com:curl/curl.git
-[submodule "deps/OpenSSL-CMake"]
-	path = deps/OpenSSL-CMake
-	url = git@github.com:pol51/OpenSSL-CMake.git
+
